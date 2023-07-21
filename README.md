@@ -83,6 +83,7 @@ random_password.random_string: Creation complete after 0s [id=none]
 
 Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
 ```
+![07-terraform-01-1](https://github.com/Kapotov/7.1/assets/123774335/7799a55f-555d-421a-bf83-7ce918a965a3)
 
 
 
